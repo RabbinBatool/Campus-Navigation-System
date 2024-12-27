@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder id="results">
+	<name>giki</name>
+	<Placemark id="1.2.1">
+		<name>Ghulam Ishaq Khan Institute of Engineering Sciences and Technology</name>
+		<address>Tarbela Road, District Swabi, Khyber Pakhtoon Khwa, Topi, Swabi, Khyber Pakhtunkhwa 23640</address>
+		<phoneNumber>(0938) 271858</phoneNumber>
+		<snippet>Tarbela Road, District Swabi, Khyber Pakhtoon Khwa, Topi, Swabi, Khyber Pakhtunkhwa 23640</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.070916149999995&lng=72.6464407&fid=0x38def93c5797c0d7:0x95445985be9ab625&hl=en&gl=pk&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.070916149999995&amp;lng=72.6464407&amp;fid=0x38def93c5797c0d7:0x95445985be9ab625&amp;hl=en&amp;gl=pk&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>72.6441351,34.0691452,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Faculty of Materials and Chemical Engineering, GIKI</name>
+		<address>3JCW+36H, Topi, Swabi, Khyber Pakhtunkhwa 23460</address>
+		<phoneNumber>(0938) 271858</phoneNumber>
+		<snippet>3JCW+36H, Topi, Swabi, Khyber Pakhtunkhwa 23460</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.070916149999995&lng=72.6464407&fid=0x38def93c09000001:0x268a1c78185c7bd3&hl=en&gl=pk&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.070916149999995&amp;lng=72.6464407&amp;fid=0x38def93c09000001:0x268a1c78185c7bd3&amp;hl=en&amp;gl=pk&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>72.6456068,34.0701928,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>GIKI College for Boys and Girls</name>
+		<address>GIKI Main Road, Tarbela Rd, Ghazi, Swabi, Khyber Pakhtunkhwa</address>
+		<phoneNumber>(0938) 271858</phoneNumber>
+		<snippet>GIKI Main Road, Tarbela Rd, Ghazi, Swabi, Khyber Pakhtunkhwa</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.070916149999995&lng=72.6464407&fid=0x38def93ba0443a75:0xd3eb8480f9cff797&hl=en&gl=pk&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.070916149999995&amp;lng=72.6464407&amp;fid=0x38def93ba0443a75:0xd3eb8480f9cff797&amp;hl=en&amp;gl=pk&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>72.64751319999999,34.0688449,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>GIKI School &amp; College</name>
+		<address>3J9W+MWV, Topi, Swabi, Khyber Pakhtunkhwa</address>
+		<snippet>3J9W+MWV, Topi, Swabi, Khyber Pakhtunkhwa</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.070916149999995&lng=72.6464407&fid=0x38def93b9ea94e75:0x4f44e176a85f315d&hl=en&gl=pk&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.070916149999995&amp;lng=72.6464407&amp;fid=0x38def93b9ea94e75:0x4f44e176a85f315d&amp;hl=en&amp;gl=pk&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>72.6472962,34.069237,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Faculty of Managment Sciences GIKI</name>
+		<address>GIKI Market, Topi, Swabi, Khyber Pakhtunkhwa</address>
+		<snippet>GIKI Market, Topi, Swabi, Khyber Pakhtunkhwa</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.070916149999995&lng=72.6464407&fid=0x38def93c23e61e21:0xf82366119f247a2e&hl=en&gl=pk&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.070916149999995&amp;lng=72.6464407&amp;fid=0x38def93c23e61e21:0xf82366119f247a2e&amp;hl=en&amp;gl=pk&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>72.64512909999999,34.0714457,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>GIKI Main Store</name>
+		<address>GIKI Market، main campus, Topi, Swabi, Khyber Pakhtunkhwa</address>
+		<snippet>GIKI Market، main campus, Topi, Swabi, Khyber Pakhtunkhwa</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.070916149999995&lng=72.6464407&fid=0x38def93b86b42a6b:0x1a8782588729a4f9&hl=en&gl=pk&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.070916149999995&amp;lng=72.6464407&amp;fid=0x38def93b86b42a6b:0x1a8782588729a4f9&amp;hl=en&amp;gl=pk&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>72.64724699999999,34.0699973,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>GIKI Residential Colony</name>
+		<address>3MF2+CGC, Sahibzada Abdul Qayyum Rd, Topi, Swabi, Khyber Pakhtunkhwa</address>
+		<snippet>3MF2+CGC, Sahibzada Abdul Qayyum Rd, Topi, Swabi, Khyber Pakhtunkhwa</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.070916149999995&lng=72.6464407&fid=0x38def93963fcc5d3:0x8006509ca062da84&hl=en&gl=pk&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.070916149999995&amp;lng=72.6464407&amp;fid=0x38def93963fcc5d3:0x8006509ca062da84&amp;hl=en&amp;gl=pk&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>72.6512522,34.0735537,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>GIKI Cricket Ground</name>
+		<address>Cricket Ground, Sports Complex Rd, Topi, Swabi, Khyber Pakhtunkhwa</address>
+		<snippet>Cricket Ground, Sports Complex Rd, Topi, Swabi, Khyber Pakhtunkhwa</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.070916149999995&lng=72.6464407&fid=0x38def938df0b23a7:0xdef79b453e671cb8&hl=en&gl=pk&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.070916149999995&amp;lng=72.6464407&amp;fid=0x38def938df0b23a7:0xdef79b453e671cb8&amp;hl=en&amp;gl=pk&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>72.6416292,34.0682786,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>
